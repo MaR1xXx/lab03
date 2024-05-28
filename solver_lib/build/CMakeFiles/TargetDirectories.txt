@@ -1,0 +1,3 @@
+/home/vboxuser/Desktop/aakx000/workspace/labs/lab03/solver_lib/build/CMakeFiles/solver_lib.dir
+/home/vboxuser/Desktop/aakx000/workspace/labs/lab03/solver_lib/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/Desktop/aakx000/workspace/labs/lab03/solver_lib/build/CMakeFiles/rebuild_cache.dir
